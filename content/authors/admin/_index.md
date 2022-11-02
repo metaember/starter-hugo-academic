@@ -24,19 +24,21 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/charlesbine
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Columbia University
+    url: https://www.columbia.edu/
+  - name: Ecole Centrale Paris
+    url: https://www.centralesupelec.fr
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Financial Engineering
+      institution: Columbia University
+      year: ""
+    - course: MS in Theoretical Mathematics
+      institution: Ecole Centrale Paris
+      year: ""
+    - course: BS in Mathematics
+      institution: Ecole Centrale Paris
+      year: ""
 superuser: true
 last_name: Bighetti
 highlight_name: true
