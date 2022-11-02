@@ -7,9 +7,9 @@ title: Skills
 subtitle: null
 feature:
   - description: 90%
-    icon: r-project
+    icon: fa-python
     icon_pack: fab
-    name: R
+    name: Python
   - description: 100%
     icon: chart-line
     icon_pack: fas
