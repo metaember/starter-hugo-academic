@@ -8,7 +8,7 @@ subtitle: null
 feature:
   - description: 90%
     icon: fa-python
-    icon_pack: fab
+    icon_pack: fa-brands
     name: Python
   - description: 100%
     icon: chart-line
