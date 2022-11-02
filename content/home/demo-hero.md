@@ -9,7 +9,7 @@ cta_note:
     data-icon="octicon-star" data-size="large" data-show-count="true"
     aria-label="Star">Star the Academic template</a></div>'
 widget: hero
-active: true
+active: false
 cta:
   label: "**Get Started**"
   url: https://wowchemy.com/templates/
