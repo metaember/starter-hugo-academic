@@ -1,31 +1,28 @@
 ---
 title: Charles Bine
 role: Quantitative Research
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: chrls_land.png
+bio: My interests include deep reinforcement learning, film photography and
+  videography.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Reinforcement Learning
+  - Film Photography
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/CharlesBine
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/metaember
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/charlesbine
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
