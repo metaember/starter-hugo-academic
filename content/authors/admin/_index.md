@@ -45,8 +45,7 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Charles is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Charles is a Quantitative Researcher based out of New York. His background is Theoretical Mathematics and Machine Learning. In his free time, Charles loves traveling, photography (especially film) and kitesurfing 🏄🏻‍♂️.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
