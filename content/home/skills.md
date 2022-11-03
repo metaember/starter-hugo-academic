@@ -7,8 +7,8 @@ title: Skills
 subtitle: null
 feature:
   - description: 90%
-    icon: fa-python
-    icon_pack: fa-brands
+    icon: python
+    icon_pack: fab
     name: Python
   - description: 100%
     icon: chart-line
