@@ -1,7 +1,7 @@
 ---
 title: Charles Bine
 role: Quantitative Research
-avatar_filename: chrls_land.png
+avatar_filename: avatar.png
 bio: My interests include deep reinforcement learning, film photography and
   videography.
 interests:
