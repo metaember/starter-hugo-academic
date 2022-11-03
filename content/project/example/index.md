@@ -1,10 +1,10 @@
 ---
-draft: true
+draft: false
 slides: example
 url_pdf: ""
 summary: Emma and I started a travel vlog. Go check us out on Youtube!
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: My Youtube Channel with Emma
