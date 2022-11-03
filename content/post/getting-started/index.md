@@ -18,7 +18,7 @@ image:
   placement: 2
   preview_only: false
 ---
-When working on a deep learning project for one of my classes, I found myself wanting a progressbar for the training of a RNN. I had used them for other tasks in the past via [tqdm](https://github.com/tqdm/tqdm) or  [progressbar2](https://pypi.python.org/pypi/progressbar2). This is actually a fork of an older, no longer maintained package: [progressbar](https://pypi.python.org/pypi/progressbar). I assume that's the reason for why you import the module as `import progressbar` and not `import progressbar2`. Anyways, I just did what I had done before: 
+When working on a deep learning project for one of my classes, I found myself wanting a progressbar for the training of a RNN. I had used them for other tasks in the past via [tqdm](https://github.com/tqdm/tqdm) or [progressbar2](https://pypi.python.org/pypi/progressbar2). This is actually a fork of an older, no longer maintained package: [progressbar](https://pypi.python.org/pypi/progressbar). I assume that's the reason for why you import the module as `import progressbar` and not `import progressbar2`. Anyways, I just did what I had done before: 
 
 ```python
 import time
