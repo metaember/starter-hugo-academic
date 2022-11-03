@@ -6,7 +6,7 @@ summary: Emma and I started a travel vlog. Go check us out on Youtube!
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: ""
-url_slides: ""
+url_slides: ~
 title: My Youtube Channel with Emma
 subtitle: Emma and I started a travel youtube channel!
 tags:
