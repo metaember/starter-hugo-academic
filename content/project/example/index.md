@@ -15,6 +15,7 @@ links:
   - icon: fab-youtube
     icon_pack: null
     url: https://www.youtube.com/@charlesemma
+    name: youtube.com/@charlesemma
 image:
   caption: ""
   focal_point: Smart
