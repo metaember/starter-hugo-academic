@@ -10,4 +10,4 @@ design:
   columns: "1"
 ---
 
-{{< gallery album="demo" >}}
+{{< gallery album="2022-08 malibu" >}}
